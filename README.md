@@ -11,3 +11,8 @@ This repo contain funtions to encrypt and decrypt any message, using [crypto](ht
 
 Using this to store encrypted password is not recommended, since it can be decrypted. For password usage, I recommend you to use [bcrypt](https://www.npmjs.com/package/bcrypt), since it's hashing your password (1 way encryption).
 
+Example 1:
+![Code](media/code.png)
+
+Example 2:
+![Output](media/example.png)
